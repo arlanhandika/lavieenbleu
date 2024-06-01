@@ -2,8 +2,11 @@ Lavieenbleu
 ==
 Sistem Informasi Penjualan Laptop Berbasis Website
 --
-Bahasa pemrograman yang digunakan:
+Teknologi yang digunakan:
+- HTML
+- CSS
 - PHP
 - JavaScript
-- CSS
+- Bootstrap
+- JQuery
 
