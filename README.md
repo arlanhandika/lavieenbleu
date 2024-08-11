@@ -28,7 +28,7 @@ Lavieenbleu is an e-commerce website designed for selling laptops. Built using H
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/handikatriarlan/Lavieenbleu.git
+   git clone https://github.com/handikatriarlan/lavieenbleu.git
    cd Lavieenbleu
    
 2. **Set Up the Environment**
